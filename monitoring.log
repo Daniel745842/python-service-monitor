@@ -1,0 +1,28 @@
+[2026-03-28 13:03:50] OK     https://google.com  200
+[2026-03-28 13:03:51] OK     https://github.com  200
+[2026-03-28 13:03:52] OK     https://python.org  200
+[2026-03-28 13:03:52] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-28 13:04:37] OK     https://google.com  200
+[2026-03-28 13:04:38] OK     https://github.com  200
+[2026-03-28 13:04:39] OK     https://python.org  200
+[2026-03-28 13:04:39] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 17:42:50] OK     https://google.com  200
+[2026-03-31 17:42:50] OK     https://github.com  200
+[2026-03-31 17:42:52] OK     https://python.org  200
+[2026-03-31 17:42:52] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 17:54:55] OK     https://google.com  200
+[2026-03-31 17:54:55] OK     https://github.com  200
+[2026-03-31 17:54:57] OK     https://python.org  200
+[2026-03-31 17:54:57] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 18:45:17] OK     https://google.com  200
+[2026-03-31 18:45:18] OK     https://github.com  200
+[2026-03-31 18:45:19] OK     https://python.org  200
+[2026-03-31 18:45:19] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 18:46:49] OK     https://google.com  200
+[2026-03-31 18:46:49] OK     https://github.com  200
+[2026-03-31 18:46:50] OK     https://python.org  200
+[2026-03-31 18:46:50] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
+[2026-03-31 19:30:06] OK     https://google.com  200
+[2026-03-31 19:30:07] OK     https://github.com  200
+[2026-03-31 19:30:09] OK     https://python.org  200
+[2026-03-31 19:30:09] FAIL   https://nieistniejaca-strona-xyz.pl  HTTPSConnectionPool(host='nieistniejaca-strona-xyz.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='nieistniejaca-strona-xyz.pl', port=443): Failed to resolve 'nieistniejaca-strona-xyz.pl' ([Errno 11001] getaddrinfo failed)"))
